@@ -2,7 +2,7 @@
 ¡I'm a colombian computer engineering student!
 - I'm Currenty lerning Node JS and SQL
 - Take a look at my projects here!
-- Connect me here: [link](www.linkedin.com/in/darwin-charris-2a9590302)
+- Connect me here: [linkedin](https://www.linkedin.com/in/darwin-charris-2a9590302/)
 <!--
 **DarwinCharris/DarwinCharris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
